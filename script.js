@@ -2,7 +2,7 @@ $(document).ready(function () {
     // Handle edit button click
     $(document).on('click', '.edit', function () {
       $(this).hide(); // Hide the edit button
-      $(this).siblings('.done_edit').show(); // Show the done_edit button
+      $(this).siblings('.done_edit').show(); // Show the Done button
       $(this).siblings(".tasks").prop("contenteditable", true);
       $(this).siblings(".tasks").focus();
     });
