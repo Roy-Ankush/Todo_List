@@ -14,7 +14,7 @@ TODO web application with HTML, CSS and JavaScript
 
 1. <h3>Practice DOM Manipulation</h3>By dynamically adding, removing, and updating tasks on the to-do list, i gain hands-on experience in manipulating the Document Object Model (DOM) using JavaScript and jQuery.
 
-2. <h3>Learn jQuery</h3>: The project allows me to explore jQuery, a popular JavaScript library, to simplify DOM interactions, handle events, and manage animations more efficiently compared to vanilla JavaScript.
+2. <h3>Learn jQuery</h3>The project allows me to explore jQuery, a popular JavaScript library, to simplify DOM interactions, handle events, and manage animations more efficiently compared to vanilla JavaScript.
 
 3. <h3>Implement Local Storage</h3>By storing the to-do list items in the browser's local storage, i learn how to persist data across page reloads, giving users a more consistent experience.
 
