@@ -12,15 +12,15 @@ TODO web application with HTML, CSS and JavaScript
 ## Project Purpose
 
 
-<h3>Practice DOM Manipulation</h3>By dynamically adding, removing, and updating tasks on the to-do list, i gain hands-on experience in manipulating the Document Object Model (DOM) using JavaScript and jQuery.
+*<h3>Practice DOM Manipulation</h3>By dynamically adding, removing, and updating tasks on the to-do list, i gain hands-on experience in manipulating the Document Object Model (DOM) using JavaScript and jQuery.
 
-<h3>Learn jQuery</h3>The project allows me to explore jQuery, a popular JavaScript library, to simplify DOM interactions, handle events, and manage animations more efficiently compared to vanilla JavaScript.
+*<h3>Learn jQuery</h3>The project allows me to explore jQuery, a popular JavaScript library, to simplify DOM interactions, handle events, and manage animations more efficiently compared to vanilla JavaScript.
 
-<h3>Implement Local Storage</h3>By storing the to-do list items in the browser's local storage, i learn how to persist data across page reloads, giving users a more consistent experience.
+*<h3>Implement Local Storage</h3>By storing the to-do list items in the browser's local storage, i learn how to persist data across page reloads, giving users a more consistent experience.
 
-<h3>Enhance Front-End Skills</h3>The project helps me improve my front-end development skills, including working with HTML for structure, CSS for styling, and JavaScript/jQuery for interactivity.
+*<h3>Enhance Front-End Skills</h3>The project helps me improve my front-end development skills, including working with HTML for structure, CSS for styling, and JavaScript/jQuery for interactivity.
 
-<h3>Develop a Functional Application</h3>The to-do list is a practical application that can be used to manage tasks, helping you understand the basics of creating usable and meaningful web applications.
+*<h3>Develop a Functional Application</h3>The to-do list is a practical application that can be used to manage tasks, helping you understand the basics of creating usable and meaningful web applications.
 
 ## Technologies
 * HTML5
